@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Plaster&display=swap');
+
+body {
+    background: #FFFBF8;
+    scroll-behavior: smooth;
+    font-family: 'Alata', sans-serif;
+    margin: 0;
+    padding: 0;
+}
